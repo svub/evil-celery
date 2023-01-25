@@ -1,0 +1,7 @@
+{
+  "name": "evil-celery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
