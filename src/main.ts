@@ -23,6 +23,8 @@ import '@ionic/vue/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
+
+// TODO test if localforage or ionic storage (modules/store) is better; ionic store would mean one dependency less.
 import localforage from 'localforage';
 
 // Optional
